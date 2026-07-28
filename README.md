@@ -9,11 +9,11 @@ Soy estudiante de 4º año de **Ingeniería del Software** en la **Universidad d
 <!-- * **Proyectos de Fin de Carrera / Asignaturas de 4º:** Enfocado en aplicar buenas prácticas de ingeniería de software en mis últimos proyectos académicos. -->
 
 ### 🛠️ Stack Tecnológico & Herramientas
-* **Lenguajes:** Python, JavaScript, Java, SQL
+* **Lenguajes:** Python, JavaScript, Java, SQL, Scala
 * **Machine Learning & Datos:** NumPy, Pandas, Scikit-Learn, Jupyter Notebooks, Matplotlib, TensorFlow (aprendiendo todavía)
 * **Desarrollo Web:** React, Node.js, Express, HTML, CSS, JS, Spring Boot
 * **Bases de Datos:** MongoDB, Redis
-* **Herramientas & Entornos:** Git, GitHub, Github-actions, Docker, Kubernetes, VS Code
+* **Herramientas & Entornos:** Git, GitHub, Github-actions, Docker, Kubernetes, VS Code, Terraform
 
 ### 📈 Mi trayectoria
 * **2025:** Completé el curso intensivo (hasta la parte 6) **[FullStackOpen](https://fullstackopen.com/es/)**, donde adquirí bases sólidas en el desarrollo de aplicaciones web modernas con React y Node.js.
