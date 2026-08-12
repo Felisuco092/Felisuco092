@@ -6,7 +6,7 @@ Soy estudiante de 4º año de **Ingeniería del Software** en la **Universidad d
 
 ### 🔭 En lo que estoy trabajando hoy
 * **Proyectos de Machine Learning:** Estoy desarrollando mini proyectos de ML para aplicar algoritmos de clasificación, regresión y procesamiento de datos. Puedes ver mis experimentos y modelos en mi repositorio dedicado: [Mi Repositorio de ML](https://github.com/Felisuco092/ml-geekforgeeks/).
-* * **Competiciones de Kaggle:** Estoy realizando competiciones en Kaggle para poner en práctica todo lo aprendido y asi mejorar, con estas competiciones también aprovecho y desarrollo el flujo de puesta en producción de un modelo, haciendo API y contenerizando las apps, y poner flujos de CI/CD de ellos con github-actions
+* **Competiciones de Kaggle:** Estoy realizando competiciones en Kaggle para poner en práctica todo lo aprendido y asi mejorar, con estas competiciones también aprovecho y desarrollo el flujo de puesta en producción de un modelo, haciendo API y contenerizando las apps, y poner flujos de CI/CD de ellos con github-actions
 <!-- * **Proyectos de Fin de Carrera / Asignaturas de 4º:** Enfocado en aplicar buenas prácticas de ingeniería de software en mis últimos proyectos académicos. -->
 
 ### 🛠️ Stack Tecnológico & Herramientas
