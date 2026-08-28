@@ -14,7 +14,8 @@ Soy estudiante de 4º año de **Ingeniería del Software** en la **Universidad d
 * **Machine Learning & Datos:** NumPy, Pandas, Scikit-Learn, Jupyter Notebooks, Matplotlib, TensorFlow (aprendiendo)
 * **Backend & Desarrollo Web:** FastAPI, Spring Boot, Express, Node.js, React, HTML, CSS
 * **Bases de Datos:** MongoDB, Redis
-* **Herramientas & Entornos:** Git, GitHub, GitHub Actions, Docker, Kubernetes, MockMagic, Terraform, VS Code
+* **Herramientas & Entornos:** Git, GitHub, GitHub Actions, Docker, Kubernetes, Terraform, VS Code
+* **Testing**: Pytest, MagicMock
 
 ### 📈 Mi trayectoria
 * **2025:** Completé el curso intensivo (hasta la parte 6) **[FullStackOpen](https://fullstackopen.com/es/)**, donde adquirí bases sólidas en el desarrollo de aplicaciones web modernas con React y Node.js.
