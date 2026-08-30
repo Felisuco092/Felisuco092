@@ -70,3 +70,13 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Felisuco092&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Felisuco092&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
 </div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felisuco092/Felisuco092/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felisuco092/Felisuco092/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Felisuco092/Felisuco092/output/github-snake.svg" alt="Snake animation" />
+  </picture>
+</div>
