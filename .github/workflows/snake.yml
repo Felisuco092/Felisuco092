@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@8404a11b66970972412dd4c653063f25c75bf088
+        uses: Platane/snk/svg-only@0a552808064a30e8a75e01b34371694f27599ea7
         with:
           github_user_name: Felisuco092
           outputs: |
@@ -19,7 +19,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@dbbe52c4107f66c89f660331ab9f3fc777c5770c
+        uses: crazy-max/ghaction-github-pages@dbbe52c561105ecb6938a473533446ddf0018fa0
         with:
           target_branch: output
           build_dir: dist
