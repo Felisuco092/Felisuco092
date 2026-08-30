@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Félix Jiménez Almanza</h1>
-  <p><strong>Ingeniero de Software & Machine Learning Specialist</strong></p>
+  <p><strong>Software Engineering Student | Machine Learning & MLOps</strong></p>
   <p>Universidad de Málaga (UMA)</p>
 
   <a href="https://www.linkedin.com/in/felix-jimenez-almanza-85b5b1352/">
