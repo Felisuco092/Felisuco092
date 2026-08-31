@@ -15,7 +15,7 @@
 
 ### En lo que estoy trabajando
 
-* **End-to-End ML & MLOps:** Construcción de pipelines reproducibles de Machine Learning aplicados a problemas reales y competiciones de Kaggle. Implemento APIs REST con **FastAPI**, pruebas unitarias con **Pytest**, contenerización optimizada en **Docker** y automatización de flujos de CI/CD mediante **GitHub Actions** hacia Docker Hub y Hugging Face. Puedes ver el código y la arquitectura aquí: [Repositorio del proyecto](https://github.com/Felisuco092).
+* **End-to-End ML & MLOps:** Construcción de pipelines reproducibles de Machine Learning aplicados a problemas reales y competiciones de Kaggle. Implemento APIs REST con **FastAPI**, pruebas unitarias con **Pytest**, contenerización optimizada en **Docker** y automatización de flujos de CI/CD mediante **GitHub Actions** hacia Docker Hub y Hugging Face. Puedes ver el código y la arquitectura aquí: [Repositorio del proyecto](https://github.com/Felisuco092/Store_Sales_Time_Series_Forecasting).
 * **Proyectos & Experimentación en IA:** Diseño e implementación de algoritmos de clasificación, regresión, visión por computador y análisis exploratorio de datos. Puedes ver los experimentos y modelos en mi repositorio dedicado: [Mi Repositorio de ML](https://github.com/Felisuco092/ml-geekforgeeks/).
 
 ---
